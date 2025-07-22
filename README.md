@@ -21,6 +21,9 @@ Tools: Postman, VS Code, Git, GitHub
 
 🚧 Features
 ✅ Submit code in various programming languages
+
 ✅ Get detailed AI-generated reviews and suggestions
+
 ✅ Clean and intuitive UI for seamless user experience
+
 ✅ Secure API integration with error handling
